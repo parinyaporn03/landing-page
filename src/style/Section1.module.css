@@ -1,0 +1,44 @@
+.section1 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  padding-left: 20px;
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+.h {
+  font-size: 40px;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.women {
+  margin-right: 140px;
+}
+.subbox img {
+  margin-right: 0px;
+}
+
+.subbox {
+  display: flex;
+  line-height: 1.5;
+  margin-left: 20px;
+}
+
+.childbox {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  row-gap: 20px;
+}
+
+.hlist {
+  font-size: 18px;
+  font-weight: 700;
+}
+.text {
+  margin-left: 10px;
+  margin-right: 40px;
+}

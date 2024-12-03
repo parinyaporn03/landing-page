@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  padding-top: 35px;
+  padding-left: 90px;
+  padding-right: 90px;
+  /* padding: 50px; */
+  /* background-color: rgb(150, 83, 83); */
+}

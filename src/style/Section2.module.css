@@ -1,0 +1,159 @@
+.section2 {
+  margin-top: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #ebf3ff;
+}
+
+.content2 {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}
+
+.h {
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+.card {
+  border-radius: 10px;
+  padding: 10px;
+  /* padding-left: 10px;
+  padding-left: 10px; */
+  margin-bottom: 30px;
+}
+
+.top1 {
+  background: url(../assets/Ai.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  border-radius: 20px 20px 0px 0px;
+  width: 300px;
+  height: 170px;
+  background-size: cover;
+}
+.top2 {
+  background: url(../assets/eng.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  border-radius: 20px 20px 0px 0px;
+  width: 300px;
+  height: 170px;
+  background-size: cover;
+}
+.top3 {
+  background: url(../assets/js.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  border-radius: 20px 20px 0px 0px;
+  width: 300px;
+  height: 170px;
+  background-size: cover;
+}
+.top4 {
+  background: url(../assets/Finance.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  border-radius: 20px 20px 0px 0px;
+  width: 300px;
+  height: 170px;
+  background-size: cover;
+}
+.bottom {
+  background-color: white;
+  border-radius: 0px 0px 20px 20px;
+  padding: 18px;
+}
+
+.boxstar {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+
+.star {
+  position: absolute;
+  color: gold;
+  overflow: hidden;
+}
+
+.goldstardiv {
+  font-size: 25px;
+  /* background-color: red; */
+  color: #666;
+  position: relative;
+}
+
+.halfstar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10.5px;
+  color: gold;
+  overflow: hidden;
+}
+.goldstardiv1 {
+  color: gold;
+  font-size: 25px;
+  position: relative;
+}
+.text {
+  font-size: 14px;
+  color: #88929c;
+  margin-top: 10px;
+  margin-bottom: 6px;
+}
+.subh {
+  font-size: 17px;
+}
+.score {
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 8px;
+  margin-left: 10px;
+}
+.btn {
+  border: 1px solid #eae9e9;
+  border-radius: 20px;
+  font-size: 14px;
+  color: #0070f9;
+  padding: 6px;
+  text-align: center;
+  margin-top: 12px;
+  cursor: pointer;
+}
+
+.topbtn {
+  border-radius: 20px;
+  font-size: 13px;
+  color: white;
+  width: fit-content;
+  background-color: #0070f9;
+  padding: 5px;
+  padding-left: 14px;
+  padding-right: 14px;
+  position: absolute;
+  top: 15px;
+  left: 17px;
+}
+.cardgroup {
+  display: flex;
+  justify-items: center;
+  margin-bottom: 15px;
+}
+.shadow {
+  width: fit-content;
+  background-color: #0070f9;
+  border-radius: 20px;
+  box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.45);
+}

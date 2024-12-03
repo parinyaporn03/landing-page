@@ -1,0 +1,128 @@
+.section5 {
+  margin-top: 20px;
+  border-top: 2px solid rgb(230, 229, 229);
+  width: 100%;
+}
+
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px;
+}
+
+.h {
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.icon {
+  font-size: 30px;
+  color: white;
+}
+.bg {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  background-color: #fbb50e;
+  border-radius: 25px;
+  padding: 7px;
+  cursor: pointer;
+}
+.contact {
+  display: flex;
+  align-items: center;
+  line-height: 1.5;
+  margin-top: 10px;
+}
+
+.contacttext {
+  padding-left: 10px;
+  font-size: 16px;
+}
+.detail {
+  font-size: 15px;
+  font-weight: 700;
+}
+.name {
+  font-size: 15px;
+}
+
+.first img {
+  width: 200px;
+}
+.info h2 {
+  margin-bottom: 10px;
+}
+.info div {
+  line-height: 2.3;
+}
+.info {
+  border-left: 2px solid rgb(230, 229, 229);
+  padding-left: 20px;
+}
+.connect {
+  display: flex;
+  flex-direction: column;
+  border-left: 2px solid rgb(230, 229, 229);
+  padding-left: 20px;
+}
+.connect img {
+  width: 100px;
+  margin-right: 10px;
+}
+.connect h2 {
+  padding-bottom: 20px;
+}
+.social {
+  color: white;
+  font-size: 20px;
+  border-radius: 17px;
+  background-color: #0070f9;
+  padding: 7px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+.socialicon {
+  display: flex;
+}
+.download {
+  display: flex;
+  margin-top: 20px;
+  padding-bottom: 55px;
+  cursor: pointer;
+}
+.vertical {
+  float: left;
+  border-right: 2px solid rgb(230, 229, 229);
+  padding-right: 20px;
+  margin-right: 20px;
+  height: fit-content;
+}
+.left {
+  display: flex;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 120px;
+  margin-right: 120px;
+  color: #5d5d5d;
+}
+.text {
+  color: #5d5d5d;
+}
+.line {
+  display: flex;
+  justify-content: center;
+}
+.inline {
+  border: 1px solid rgb(230, 229, 229);
+  background-color: rgb(230, 229, 229);
+  /* padding-left: 50px; */
+  width: 85%;
+}
